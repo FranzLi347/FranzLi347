@@ -23,3 +23,4 @@ Feel free to connect with me or follow my journey through technology.
 - **GitHub:** [Franzli347](https://github.com/FranzLi347)
 - **Blog:** [Franz`s Blog](https://blog.741588.xyz)
 
+[![Anurag's GitHub stats](https://github-readme-stats-six-ruby-77.vercel.app/api?username=FranzLi347)](https://github.com/anuraghazra/github-readme-stats)
