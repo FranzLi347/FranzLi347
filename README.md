@@ -24,3 +24,5 @@ Feel free to connect with me or follow my journey through technology.
 - **Blog:** [Franz`s Blog](https://blog.741588.xyz)
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-ruby-77.vercel.app/api?username=FranzLi347)](https://github.com/anuraghazra/github-readme-stats)
+
+Please note that a significant portion of my projects are hosted on private GitLab repositories, which means my GitHub stats might not fully reflect my coding activity and contributions.
